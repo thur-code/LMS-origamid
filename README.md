@@ -109,7 +109,9 @@ JOIN courses AS cr ON c.course_id = cr.id;
 
 ## 📂 Status do projeto
 ✅ Concluído
+
 📦 Banco de dados funcional
+
 🧠 Inclui scripts SQL e banco populado
 
 ---
