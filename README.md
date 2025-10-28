@@ -5,12 +5,6 @@ O objetivo foi **criar um banco de dados completo e funcional**, modelando um si
 
 ---
 
-## 🚀 Preview
-
-🔗 [Curso SQLite Fundamentos – Origamid](https://www.origamid.com/curso/sqlite-fundamentos/)
-
----
-
 ## 🗃️ Estrutura do projeto
 
 ```
